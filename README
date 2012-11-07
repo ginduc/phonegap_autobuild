@@ -1,3 +1,24 @@
 Mock app to test PhoneGap Build automation
 (https://build.phonegap.com)
 
+1. Create PhoneGap / IOS App Project
+
+2. Push to Github repo
+
+3. Link PhoneGap Build account with Github account
+
+4. Set up certs and keys in PhoneGap
+
+5. Retrieve PhoneGap authentication token
+
+6. Set up post commit web hook on Github repo
+
+7. Make updates to Github repo
+
+Refs:
+
+http://www.slideshare.net/coldfumonkeh/automating-phonegap-build
+https://build.phonegap.com/docs
+https://github.com/danjres/CDVBundleInfo
+ 
+
